@@ -1,0 +1,6 @@
+Sistema de Gestion de Inventario de Productos
+Trabajo Final Integrador - TalentoTech 2026
+Alumno: Hernan Perez Melgar
+DNI: 26145643
+Comision: C26108
+Profesor: Leandro Fazio
